@@ -19,12 +19,12 @@ if (inputLkneNumber!=null)
 
 
 //switch(inputNumber)
-//{
+// {
 //    case1:
 //    Console.WriteLine("monday");
 //    break;
-//
+
 //    case2:
 //    Console.WriteLine("");
 //    break;
-//}
+// }
