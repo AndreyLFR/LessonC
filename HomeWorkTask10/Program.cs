@@ -6,8 +6,8 @@ int Variant1(string number)
 {
 char[] arr = number.ToCharArray();
 if (arr.Length==3)
-    {int numberThree=arr[1]-48;
-    return numberThree;}
+    {int numberTwo=arr[1]-48;
+    return numberTwo;}
 else{
     int e=-1;
     return e;
