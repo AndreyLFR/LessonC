@@ -16,11 +16,11 @@ void GenArray()
     Console.Write("[");
     while(i<arrLength-1)
     {
-        Console.Write(numberSintezator.Next(downNumber,upNumber));
+        Console.Write(numberSintezator.Next(downNumber,upNumber+1));
         Console.Write(",");
         i++;
     }
-    Console.Write(numberSintezator.Next(downNumber,upNumber));
+    Console.Write(numberSintezator.Next(downNumber,upNumber+1));
     Console.Write("]");
 }
 
